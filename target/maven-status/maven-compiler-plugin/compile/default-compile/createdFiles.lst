@@ -1,7 +1,10 @@
 bdp\wordcount\CommentCount.class
 bdp\wordcount\WordCount$BadwordCountReducer.class
+bdp\wordcount\RussianTroll$RussianCountMapper.class
 bdp\wordcount\CommentCount$NormalizeCountMapper.class
 bdp\wordcount\JsonObject.class
+bdp\wordcount\RussianTroll.class
 bdp\wordcount\WordCount$BadwordCountMapper.class
 bdp\wordcount\WordCount.class
 bdp\wordcount\CommentCount$NormalizeCountReducer.class
+bdp\wordcount\RussianTroll$RussianCountReducer.class
